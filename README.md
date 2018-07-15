@@ -1,8 +1,3 @@
-# ufo_sighting
-Created an HTML web page that appended JSON data with several different type of filters. Later, a table was paginated from the JSON file that assisted having the data appear on the web page. 
-
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
-
 ## Background
 
 The collection of data in the given JSON was too big to manually go through and find specific data. By creating a web page and using filters, we have the ability to sort through the data easier. 
